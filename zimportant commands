@@ -1,0 +1,7 @@
+
+truffle test (run tests from TOdoList.test.js)
+
+truffle migrate --reset (deploy a new copy of the smart contract to the blockchain)
+
+
+npm run dev (run the dev env )
