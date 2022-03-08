@@ -1,6 +1,8 @@
 # eth-todo-app
 
-Following tutorial by freecodecamp https://www.youtube.com/watch?v=coQ5dg8wM2o&list=PL_vJ8vBuGpRQocbbOCJwGK7iI1WM4TCWY&index=2&t=3047s
+Following tutorial by freecodecamp
+
+freecodecamp. (www.youtube.com). (n.d.). Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity. [online] Available at: https://youtu.be/coQ5dg8wM2o [Accessed 8 Mar. 2022].
 
 There were a few outdated libraries used which I needed to fix code for!
 
