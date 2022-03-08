@@ -6,4 +6,4 @@ freecodecamp. (www.youtube.com). (n.d.). Build Your First Blockchain App Using E
 
 There were a few outdated libraries used which I needed to fix code for!
 
-Currentyl working as of 3/03/2022
+Working as of 3/03/2022
